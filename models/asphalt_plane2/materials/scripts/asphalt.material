@@ -1,0 +1,15 @@
+material vrc/asphalt2
+{
+	technique
+	{
+		pass
+		{
+
+			texture_unit
+			{
+				texture tarmac2.png
+				scale 0.004 0.004
+			}
+		}
+	}
+}
