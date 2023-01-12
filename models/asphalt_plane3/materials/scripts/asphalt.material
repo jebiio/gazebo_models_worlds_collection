@@ -1,0 +1,14 @@
+material vrc/asphalt3
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture trafic.png
+				scale 0.4 0.4
+			}
+		}
+	}
+}
